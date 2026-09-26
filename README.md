@@ -1,4 +1,5 @@
 # 云序中心 · 办公楼园区建造演示
+<img width="2550" height="1275" alt="image" src="https://github.com/user-attachments/assets/4d830219-74ee-4dc8-a2ad-590047054c33" />
 
 **云序中心**是一个基于 Three.js 的交互式办公园区沙盘。场景包括两栋办公塔楼、入口裙楼、广场水景、园区道路和绿化。可播放五阶段建造动画，拖动时间轴查看任意进度，也可一键查看竣工全景。
 
