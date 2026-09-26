@@ -11,7 +11,6 @@
 This is a static page with no npm installation. Internet access is required to load the Three.js ES modules.
 
 ```bash
-cd office-campus
 python -m http.server 8000
 ```
 
@@ -49,7 +48,7 @@ You can also open `index.html` through VS Code Live Server. Serve it over local 
 ## 项目结构 / Project structure
 
 ```text
-office-campus/
+office-campus-threejs/
 ├── index.html   # Three.js 场景、动画和界面 / Scene, animation, and UI
 └── README.md    # 使用与技术说明 / Usage and technical notes
 ```
